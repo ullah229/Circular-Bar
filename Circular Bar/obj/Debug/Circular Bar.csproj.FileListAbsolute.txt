@@ -1,0 +1,13 @@
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\bin\Debug\Circular Bar.exe.config
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\bin\Debug\Circular Bar.exe
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\bin\Debug\Circular Bar.pdb
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\bin\Debug\CircularProgressBar.dll
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\bin\Debug\WinFormAnimation.dll
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.csprojAssemblyReference.cache
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular_Bar.Properties.Resources.resources
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.csproj.GenerateResource.cache
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.csproj.CopyComplete
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.exe
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular Bar.pdb
+C:\Users\Ullah\source\repos\Circular Bar\Circular Bar\obj\Debug\Circular_Bar.Form1.resources
